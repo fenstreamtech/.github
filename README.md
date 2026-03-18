@@ -1,19 +1,52 @@
-# Fenstream Tech
+# Fenstream Technology Group .github Repository
 
-Fenstream Technology Group is a leading UK technology group delivering integrated IT, hosting, communications, and physical security services for modern organisations. We support both home and business environments with practical, outcomes-focused solutions designed to improve reliability, reduce operational risk, and keep teams productive.
+This repository is the canonical source for shared community, security, and governance policies used across Fenstream Technology Group repositories and its subsidiaries.
 
-Our group approach combines managed IT support, cloud and hosting services, business telephony, and security/access control under specialist operating companies. Across every brand, we maintain a strong focus on startups, not-for-profits, and open source projects, with service models tailored to each customer’s stage, sector, and operational needs.
+## Purpose
 
-## Our Companies
+The goal of this repository is to provide a consistent baseline for:
 
-### [@abbeygateit](https://github.com/abbeygateit)
-Managed IT Services Provider specialising in Apple products for the Creative, Print/Distribution, and Life Science industries.
+- security reporting and coordinated disclosure
+- contribution and review expectations
+- community conduct standards
+- support and escalation routes
+- governance and policy ownership
 
-### [@wearedinohosting](https://github.com/wearedinohosting)
-Internet hosting provider specialising in domain, website, and server hosting.
+Unless a repository explicitly documents an approved exception, these baseline policies apply by default.
 
-### [Elvedon Comms](https://elvedoncomms.co.uk)
-Business telephony and mobile provider delivering voice and connectivity solutions.
+## Baseline Policy Set
 
-### [Imperium Security](https://imperiumsecurity.co.uk)
-Security and access control company supplying, installing, and maintaining burglar alarms and access control systems for residential and business premises.
+- [GROUP_POLICY.md](GROUP_POLICY.md)  
+  Group-wide applicability, exception model, and policy authority.
+
+- [SECURITY.md](SECURITY.md)  
+  Vulnerability reporting process, response targets, and safe-harbor expectations.
+
+- [CONTRIBUTING.md](CONTRIBUTING.md)  
+  Contribution workflow, pull request standards, and review requirements.
+
+- [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)  
+  Community behavior expectations and enforcement approach.
+
+- [SUPPORT.md](SUPPORT.md)  
+  Support channels and response model.
+
+- [GOVERNANCE.md](GOVERNANCE.md)  
+  Roles, ownership, and decision-making model.
+
+- [POLICY_VERSION.md](POLICY_VERSION.md)  
+  Baseline versioning, effective date, and review cadence.
+
+## Adoption Model
+
+For project repositories, use lightweight local policy files that reference these canonical documents.  
+This keeps policy maintenance centralized while preserving clear, repo-level visibility.
+
+The lightweight local policy document templates can be found here: [Templates Folder](.templates)
+
+
+## Policy Ownership
+
+Owned by: **Fenstream Technology Group Security and Open Source Governance**
+
+For policy questions or updates, email **opensource_governance@fenstreamtech.group**.
