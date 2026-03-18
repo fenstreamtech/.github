@@ -12,8 +12,8 @@ Managed IT Services Provider specialising in Apple products for the Creative, Pr
 ### [@wearedinohosting](https://github.com/wearedinohosting)
 Internet hosting provider specialising in domain, website, and server hosting.
 
-### [Elvedon Comms](https://elvedoncomms.co.uk)
+### [Elvedon Comms](https://elvedoncomms.uk)
 Business telephony and mobile provider delivering voice and connectivity solutions.
 
-### [Imperium Security](https://imperiumsecurity.co.uk)
+### [Imperium Security](https://imperiumsecure.co.uk)
 Security and access control company supplying, installing, and maintaining burglar alarms and access control systems for residential and business premises.
