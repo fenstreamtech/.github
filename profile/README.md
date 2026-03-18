@@ -1,4 +1,4 @@
-# Fenstream Tech
+# Fenstream Technology Group Ltd
 
 Fenstream Technology Group is a leading UK technology group delivering integrated IT, hosting, communications, and physical security services for modern organisations. We support both home and business environments with practical, outcomes-focused solutions designed to improve reliability, reduce operational risk, and keep teams productive.
 
