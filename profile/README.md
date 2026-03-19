@@ -6,10 +6,10 @@ Our group approach combines managed IT support, cloud and hosting services, busi
 
 ## Our Companies
 
-### [@abbeygateit](https://github.com/abbeygateit)
+### [Abbeygate IT Services](https://github.com/abbeygateit)
 Managed IT Services Provider specialising in Apple products for the Creative, Print/Distribution, and Life Science industries.
 
-### [@wearedinohosting](https://github.com/wearedinohosting)
+### [DinoHosting](https://github.com/wearedinohosting)
 Internet hosting provider specialising in domain, website, and server hosting.
 
 ### [Elvedon Comms](https://elvedoncomms.uk)
